@@ -16,3 +16,6 @@
     - [Pytorch Lightning](https://lightning.ai/docs/pytorch/stable/)
 5. Применение модели:
     - [Gradio](https://www.gradio.app/)
+
+# Макет Интерфейса
+TODO: добавить изображения ожидаемого интерфейса на grad.io
