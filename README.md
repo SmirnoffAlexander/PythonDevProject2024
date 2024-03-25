@@ -17,5 +17,5 @@
 5. Применение модели:
     - [Gradio](https://www.gradio.app/)
 
-# Макет Интерфейса
-TODO: добавить изображения ожидаемого интерфейса на grad.io
+# Драфт Интерфейса на GRADIO
+![GUI draft](imgs/diagram.png)
