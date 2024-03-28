@@ -26,4 +26,17 @@
 
 # Драфт Интерфейса на GRADIO
 
-![GUI draft](imgs/diagram.png)
+```mermaid
+flowchart TD
+    A[See Food] -->|make a prediction
+    for input image|B(Inference page)
+    A --->|display examples
+    of train and
+    val images|C(Dataset page)
+    A ---> |display the architectue
+    of the model and
+    its metrics on test set |D(Model page)
+    B ---> E[Upload image button]
+    B ---> F[Prediction button]
+    F ---> G(Class probabilities plot)
+```
